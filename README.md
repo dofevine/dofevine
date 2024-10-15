@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## Badges
 <!--START_SECTION:badges-->
-![Static Badge](https://img.shields.io/badge/LFS258%3A_Kubernetes_Fundamentals-Badged-green?logo=kubernetes&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F654caf82-fc5c-43a5-8e69-c1f1bdfa72da%2Fpublic_url)
+<img alt="Static Badge" src="https://img.shields.io/badge/LFS258%3A_Kubernetes_Fundamentals-Badged-green?logo=kubernetes&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F654caf82-fc5c-43a5-8e69-c1f1bdfa72da%2Fpublic_url">
 <!--END_SECTION:badges-->
